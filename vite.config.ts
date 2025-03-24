@@ -8,7 +8,7 @@ export default defineConfig({
     react(),
     keycloakify({
       accountThemeImplementation: "none",
-      themeName: "automining",
+      themeName: process.env.COMPANY ?? "automining",
     }),
   ]
 });

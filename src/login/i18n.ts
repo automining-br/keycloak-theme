@@ -9,7 +9,7 @@ const { useI18n, ofTypeI18n } = i18nBuilder
     "pt-BR": {
       "companyLogoName": "automining",
       "welcomeMessage": "Bem-vindo ao",
-      "appName": "Automing Login",
+      "appName": "Autominig Login",
       "companyMotto": "Nossa missão é fazer uma diferença positiva, desenvolvendo recursos naturais para melhorar a vida das pessoas agora e para as gerações futuras.",
     }
   })

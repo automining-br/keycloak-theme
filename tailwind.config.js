@@ -18,7 +18,7 @@ const palettes = {
     secondary: "#D0A60F"
   }
 }
-const generateFor = "appian"
+const generateFor = process.env.COMAPNY ?? "automining"
 const palette = getPalette([
   {
     name: "primary",
